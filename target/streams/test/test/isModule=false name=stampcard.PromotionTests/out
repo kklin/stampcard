@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mPromotionTests:[0m[0m
+[0m[[0minfo[0m] [0m[32m- promotion not rejecting when meetsStampRequirement returns false[0m[0m
+[0m[[0minfo[0m] [0m[32m- promotion date range rejecting appropriate card[0m[0m
+[0m[[0minfo[0m] [0m[32m- promotion date range accepting inappropriate card[0m[0m
+[0m[[0minfo[0m] [0m[32m- simple meetsStampRequirement of at least one stamp of any kind[0m[0m
+[0m[[0minfo[0m] [0m[32m- simple meetsStampRequirement of at least one stamp of any kind on blank card[0m[0m

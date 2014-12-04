@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lift_basic.iml" filepath="$PROJECT_DIR$/.idea/modules/lift_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lift_basic-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lift_basic-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stampcardapi.iml" filepath="$PROJECT_DIR$/.idea/modules/stampcardapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stampcardapi-build.iml" filepath="$PROJECT_DIR$/.idea/modules/stampcardapi-build.iml" />
+    </modules>
+  </component>
+</project>

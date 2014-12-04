@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mRequirementTests:[0m[0m
+[0m[[0minfo[0m] [0m[32m- stamp can't be both universal and basic[0m[0m
+[0m[[0minfo[0m] [0m[32m- stamp is either universal or basic[0m[0m
+[0m[[0minfo[0m] [0m[32m- can only be used if requirement fits from multiple owners[0m[0m
+[0m[[0minfo[0m] [0m[32m- can only be used if there's at least three stamps, coming from at least two owners[0m[0m

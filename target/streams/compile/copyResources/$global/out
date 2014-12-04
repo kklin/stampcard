@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/kklin/IdeaProjects/StampcardAPI/src/main/resources/logback.xml,/Users/kklin/IdeaProjects/StampcardAPI/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/kklin/IdeaProjects/StampcardAPI/src/main/resources/props,/Users/kklin/IdeaProjects/StampcardAPI/target/scala-2.11/classes/props)[0m
+[0m[[0mdebug[0m] [0m	(/Users/kklin/IdeaProjects/StampcardAPI/src/main/resources/props/default.props,/Users/kklin/IdeaProjects/StampcardAPI/target/scala-2.11/classes/props/default.props)[0m

@@ -1,0 +1,12 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/kklin/IdeaProjects/StampcardAPI/src/test/resources/logback-test.xml,/Users/kklin/IdeaProjects/StampcardAPI/target/scala-2.11/test-classes/logback-test.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/kklin/IdeaProjects/StampcardAPI/src/main/webapp/images,/Users/kklin/IdeaProjects/StampcardAPI/target/scala-2.11/test-classes/images)[0m
+[0m[[0mdebug[0m] [0m	(/Users/kklin/IdeaProjects/StampcardAPI/src/main/webapp/index.html,/Users/kklin/IdeaProjects/StampcardAPI/target/scala-2.11/test-classes/index.html)[0m
+[0m[[0mdebug[0m] [0m	(/Users/kklin/IdeaProjects/StampcardAPI/src/main/webapp/static,/Users/kklin/IdeaProjects/StampcardAPI/target/scala-2.11/test-classes/static)[0m
+[0m[[0mdebug[0m] [0m	(/Users/kklin/IdeaProjects/StampcardAPI/src/main/webapp/templates-hidden,/Users/kklin/IdeaProjects/StampcardAPI/target/scala-2.11/test-classes/templates-hidden)[0m
+[0m[[0mdebug[0m] [0m	(/Users/kklin/IdeaProjects/StampcardAPI/src/main/webapp/WEB-INF,/Users/kklin/IdeaProjects/StampcardAPI/target/scala-2.11/test-classes/WEB-INF)[0m
+[0m[[0mdebug[0m] [0m	(/Users/kklin/IdeaProjects/StampcardAPI/src/main/webapp/images/ajax-loader.gif,/Users/kklin/IdeaProjects/StampcardAPI/target/scala-2.11/test-classes/images/ajax-loader.gif)[0m
+[0m[[0mdebug[0m] [0m	(/Users/kklin/IdeaProjects/StampcardAPI/src/main/webapp/static/index.html,/Users/kklin/IdeaProjects/StampcardAPI/target/scala-2.11/test-classes/static/index.html)[0m
+[0m[[0mdebug[0m] [0m	(/Users/kklin/IdeaProjects/StampcardAPI/src/main/webapp/templates-hidden/default.html,/Users/kklin/IdeaProjects/StampcardAPI/target/scala-2.11/test-classes/templates-hidden/default.html)[0m
+[0m[[0mdebug[0m] [0m	(/Users/kklin/IdeaProjects/StampcardAPI/src/main/webapp/templates-hidden/wizard-all.html,/Users/kklin/IdeaProjects/StampcardAPI/target/scala-2.11/test-classes/templates-hidden/wizard-all.html)[0m
+[0m[[0mdebug[0m] [0m	(/Users/kklin/IdeaProjects/StampcardAPI/src/main/webapp/WEB-INF/web.xml,/Users/kklin/IdeaProjects/StampcardAPI/target/scala-2.11/test-classes/WEB-INF/web.xml)[0m

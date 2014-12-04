@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0mHelloWorldTestSpecs[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mHelloWorld Snippet should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[33mx[0m Put the time in the node[0m[0m
+[0m[[31merror[0m] [0m   -1 is less than 0 (HelloWorldTest.scala:38)[0m
+[0m[[0minfo[0m] [0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification HelloWorldTestSpecs[0m
+[0m[[0minfo[0m] [0m[36mFinished in 46 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m1 example, 1 failure, 0 error[0m[0m
